@@ -22,6 +22,7 @@ class Quote
   "XML is an acronym for \"our service doesn't work.\"",
   "That code should be thrown on the floor, set on fire, and jumped up and down on!",
   "There is no elegant way to piss in the street.",
+  "Never take life seriously. Nobody gets out alive anyway.",
   "X is a tiny wart on the giant ass of Craigslist.",
   "What's after satellite radio? The satellite newspaper? The satellite stone tablet?",
   "Like a snowman taking a dump on a unicorn that's on fire",
